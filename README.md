@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahdi-Sadeghi
 - 👀 I’m interested in Python and data science
 - 💞️ I’m looking to collaborate on projects that are full of challenges
-- 📫 How to reach me Telegram messenger: @MESadeghi1999
+- 📫 How to reach me?🤔... at Telegram messenger: @MESadeghi1999
 - ⚡ Fun fact: I'm also a translator
 
 <!---
