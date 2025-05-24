@@ -86,24 +86,7 @@
     </td>
   </tr>
 </table>
-## **🌀 Current Obsessions**
-
-<!-- STATS CARDS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Sadeghi2&layout=compact&theme=radical&hide_border=true&bg_color=121212&title_color=FF00F7&text_color=FFFFFF" alt="Top Langs"/>
-</p>
-
-```c
-// Current Focus:
-while(1) {
-  embedded_development();
-  reverse_engineering();
-  if(discovery) {
-    celebrate();
-    share_knowledge();
-  }
-}
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Sadeghi&theme=radical&hide_border=true&background=121212&stroke=FF00F7&ring=00D1FF&fire=FF6D00&currStreakNum=FFFFFF&sideNums=00FFA3" alt="GitHub Streak"/> </p>
+com/?user=Mahdi-Sadeghi&theme=radical&hide_border=true&background=121212&stroke=FF00F7&ring=00D1FF&fire=FF6D00&currStreakNum=FFFFFF&sideNums=00FFA3" alt="GitHub Streak"/> </p>
 ---
 
 ## 🌐 Socials:
