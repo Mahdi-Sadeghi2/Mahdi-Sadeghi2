@@ -14,11 +14,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=121212" alt="Kubernetes"/>
 </p>
 
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahdi-Sadeghi&theme=radical&row=1&column=7&no-frame=true" alt="Trophies"/>
-</div>
-
 ---
 
 ## **🌈 Tech Rainbow**
