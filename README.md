@@ -104,21 +104,27 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mahdi-Sadeghi2&icon=2&color=0)](https://visitcount.itsvg.in)
 
+### **🌟 My Coding Superpowers**
+<p align="left">
+  <img src="https://img.shields.io/badge/-💻_Python_Microcontrollers-4CAF50?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-🔍_Reverse_Engineering-2196F3?style=for-the-badge&logo=radar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-☕_Caffeine_Powered-FF9800?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-📚_Knowledge_Addict-9C27B0?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</p>
+
+### **🛠️ Low-Level Adventures** 
+<p align="left">
+  <img src="https://img.shields.io/badge/-🦀_Rust_+_Assembly-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-💡_Learning_Registers/Opcodes-FFC107?style=for-the-badge&logo=lightbulb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-📟_Bare_Metal_Fun-607D8B?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-💥_Stack_Overflow_Battles-F44336?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-📚_ARM_Calling_Conventions-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-+ 💻 Can make microcontrollers dance to Python's tune
-+ 🔍 Reverse engineering enthusiast - love decompiling the Matrix!
-+ ☕ Caffeine-powered debugging sessions
-+ 📚 Passionate about knowledge acquisition and continuous learning
-### **🛠️ Baby Steps in Low-Level World**  
-```diff
-! 🦀 🖥️Just starting my Assembly/Rust journey
-+ 🔍 Learning reverse engineering with Ghidra
-- 💡 Currently understanding: registers, opcodes, memory addressing
-# � Struggling with: stack overflows, ARM calling conventions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahdi-Sadeghi2/Mahdi-Sadeghi2/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahdi-Sadeghi2/Mahdi-Sadeghi2/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
