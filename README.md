@@ -86,8 +86,6 @@
     </td>
   </tr>
 </table>
-com/?user=Mahdi-Sadeghi&theme=radical&hide_border=true&background=121212&stroke=FF00F7&ring=00D1FF&fire=FF6D00&currStreakNum=FFFFFF&sideNums=00FFA3" alt="GitHub Streak"/> </p>
----
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mc1392@live.com) 
