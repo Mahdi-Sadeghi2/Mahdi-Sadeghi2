@@ -1,6 +1,6 @@
 <!-- HEADER WITH ANIMATED TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=500&color=FF00F7&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%9A%80+MAHDI+SADEGHI;%F0%9F%94%A5+Backend+Developer+%7C+Revese+Engineer+%7C+Polyglot+Coder" alt="Animated Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=500&color=FF00F7&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%9A%80+MAHDI+SADEGHI;%F0%9F%94%A5+Backend+Developer+%7C+Reverse+Engineer+%7C+Polyglot+Coder" alt="Animated Title" />
 </p>
 
 <!-- SHIELDS BADGE ROW -->
