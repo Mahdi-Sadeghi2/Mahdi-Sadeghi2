@@ -86,7 +86,23 @@
     </td>
   </tr>
 </table>
+## **🌀 Current Obsessions**
 
+<!-- STATS CARDS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Sadeghi2&layout=compact&theme=radical&hide_border=true&bg_color=121212&title_color=FF00F7&text_color=FFFFFF" alt="Top Langs"/>
+</p>
+
+```c
+// Current Focus:
+while(1) {
+  embedded_development();
+  reverse_engineering();
+  if(discovery) {
+    celebrate();
+    share_knowledge();
+  }
+}
 ---
 
 ## 🌐 Socials:
