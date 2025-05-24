@@ -107,11 +107,15 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 + 💻 Can make microcontrollers dance to Python's tune
-+ 🔍 Reverse engineering enthusiast - love decompiling the Matrix
-! ☕ Caffeine-powered debugging sessions
-- 📚 Currently reading: "The Ghidra Book" by Chris Eagle
-# 🦀 Learning Rust for embedded and RE
-> 🛠️ Building custom IoT security tools
++ 🔍 Reverse engineering enthusiast - love decompiling the Matrix!
++ ☕ Caffeine-powered debugging sessions
++ 📚 Passionate about knowledge acquisition and continuous learning
+### **🛠️ Baby Steps in Low-Level World**  
+```diff
+! 🦀 🖥️Just starting my Assembly/Rust journey
++ 🔍 Learning reverse engineering with Ghidra
+- 💡 Currently understanding: registers, opcodes, memory addressing
+# � Struggling with: stack overflows, ARM calling conventions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahdi-Sadeghi2/Mahdi-Sadeghi2/output/github-snake-dark.svg" />
